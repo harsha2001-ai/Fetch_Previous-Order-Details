@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "661eb9714dd24d149baa3a9d",
+    "Name": "KFC",
+    "Restaurant Dish": "Crispy Wings",
+    "Method Of Payment": "Cash",
+    "Order Amount": "32$",
+    "Order Date": "2024-04-16T04:00:00.000Z",
+    "Number Of Items": 1,
+    "Delivery Rating": 4
+  },
+  {
+    "_id": "661eba574dd24d149baa3a9f",
+    "Name": "Domino's",
+    "Delivery Rating": 1,
+    "Method of Payment": "Debit",
+    "Number of Items": 2,
+    "Order Amount": "50$",
+    "Order Date": "2024-04-12T04:00:00.000Z",
+    "Restaurant Dish": "Chicken Salad,Tacos"
+  },
+  {
+    "_id": "661ebbc94dd24d149baa3aa0",
+    "Name": "Dunkin Donuts",
+    "Restaurant Dish": "Chocolate Donut",
+    "Method Of Payment": "Cash",
+    "Order Amount": "3$",
+    "Order Date": "2012-11-04T04:00:00.000Z",
+    "Number of Items": 2,
+    "Delivery Rating": 4
+  },
+  {
+    "_id": "661ebefc4dd24d149baa3aa1",
+    "Name": "Popeyes",
+    "Restaurant Dish": "Large Fries",
+    "Method Of Payment": "Rewards",
+    "Order Amount": "0$",
+    "Order Date": "2024-03-22T04:00:00.000Z",
+    "Number Of Items": 1,
+    "Delivery Rating": 5
+  },
+  {
+    "_id": "6620525c3a82dfe220e5c61b",
+    "Name": "Popeyes",
+    "Restaurant Dish": "Fried Wings",
+    "Method Of Payment": "Cash",
+    "Order Amount": "10$",
+    "Order Date": "2024-03-12T04:00:00.000Z",
+    "Number Of Items": 1,
+    "Delivery Rating": 1
+  },
+  {
+    "_id": "662057e83a82dfe220e5c61c",
+    "Name": "Pizza Hut",
+    "Restaurant Dish": "Chicken Pizza",
+    "Method Of Payment": "Debit Card",
+    "Order Amount": "23$",
+    "Order Date": "2024-03-01T05:00:00.000Z",
+    "Number Of Items": 1,
+    "Delivery Rating": 3
+  },
+  {
+    "_id": "662060ee3a82dfe220e5c61d",
+    "Name": "Wendys",
+    "Restaurant Dish": "French Fries",
+    "Method Of Payment": "Cash",
+    "Order Amount": "12$",
+    "Order Date": "2024-03-01T05:00:00.000Z",
+    "Number Of Items": 2,
+    "Delivery Rating": 5
+  },
+  {
+    "_id": "662061993a82dfe220e5c61e",
+    "Name": "Pista House",
+    "Restaurant Dish": "Tandoori Chicken",
+    "Method Of Payment": "Card",
+    "Order Amount": "5$",
+    "Order Date": "2024-09-07T04:00:00.000Z",
+    "Number Of Items": 1,
+    "Delivery Rating": 5
+  }
+]
